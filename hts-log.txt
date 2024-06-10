@@ -1,0 +1,24 @@
+HTTrack3.49-2 launched on Tue, 11 Jun 2024 00:55:03 at https://zeuspepesdog.vip/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://zeuspepesdog.vip/ -O "/Users/oneilbenjamin/websites/zuue" -n -%P -N100 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:56:01	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://zeuspepesdog.vip/)
+00:56:01	Warning: 	Warning: store text/html without scan: /Users/oneilbenjamin/websites/zuue/xfn/.html
+00:56:01	Warning: 	Warning: store text/html without scan: /Users/oneilbenjamin/websites/zuue/xfn/intro.html
+00:56:01	Warning: 	Warning: store text/html without scan: /Users/oneilbenjamin/websites/zuue/xfn/faq.html
+00:56:01	Warning: 	HTML file (284058 bytes) retransferred due to lack of cache: https://zeuspepesdog.vip/wp-json/
+00:56:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://zeuspepesdog.vip/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fzeuspepesdog.vip%2F
+00:56:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://zeuspepesdog.vip/wp-json/wp/v2/pages/9
+00:56:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://zeuspepesdog.vip/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fzeuspepesdog.vip%2F&format=xml
+00:56:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://zeuspepesdog.vip/xmlrpc.php?rsd
+00:56:15	Error: 	"Not Found" (404) at link https://zeuspepesdog.vip/wp-content/uploads/2024/04/elementor/thumbs/IMG_20240420_122321_772-removebg-preview-1-e1713606217132-qmze848lw008jccngil2tulljv4zxk04n9hgbifu94.png (from https://zeuspepesdog.vip/)
+00:56:19	Warning: 	Warning: store text/css without scan: /Users/oneilbenjamin/websites/zuue/xfn/default.css
+00:56:19	Error: 	"Not Found" (404) at link https://zeuspepesdog.vip/-negative.svg (from https://zeuspepesdog.vip/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.21.2)
+00:56:20	Error: 	"Not Found" (404) at link https://zeuspepesdog.vip/OPR/ (from https://zeuspepesdog.vip/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.21.2)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 17 seconds : 62 links scanned, 59 files written (5082336 bytes overall) [3969207 bytes received at 51548 bytes/sec], 1796659 bytes transferred using HTTP compression in 37 files, ratio 15%, 3.7 requests per connection
+(4 errors, 9 warnings, 0 messages)
